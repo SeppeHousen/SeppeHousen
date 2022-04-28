@@ -10,7 +10,7 @@ More information on my background via [LinkedIn](https://www.linkedin.com/in/sep
 ## Current project
 - 💵 M&A deal-price prediction using neural networks
 
-## previous projects
+## Previous projects
 - 💵 Salary prediction using tree-based models
 - 🏢 Chevron stock analysis using text analysis, GARCH-models and portfolio optimization
 - 🍷 Wine investment analysis using linear regression
