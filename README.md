@@ -12,8 +12,13 @@ More information on my background via [LinkedIn](https://www.linkedin.com/in/sep
 
 ## Previous projects
 - 💵 Salary prediction using tree-based models
-- 🏢 Chevron stock analysis using text analysis, GARCH-models and portfolio optimization
+- 📈 Chevron stock analysis using text analysis, GARCH-models and portfolio optimization
 - 🍷 Wine investment analysis using linear regression
+
+
+## Working experience with data
+- 🔤 NLP of legal documents for text classification and Named Entity Recognition (NER)
+- 📦 Warehouse optimization with Monte Carlo analysis and mathenatical modelling
 
 <!---
 SeppeHousen/SeppeHousen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
