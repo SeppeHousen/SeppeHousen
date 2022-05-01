@@ -18,7 +18,7 @@ More information on my background via [LinkedIn](https://www.linkedin.com/in/sep
 
 ## Working experience with data
 - 🔤 NLP of legal documents for text classification and Named Entity Recognition (NER)
-- 📦 Warehouse optimization with Monte Carlo analysis and mathenatical modelling
+- 📦 Warehouse optimization with Monte Carlo analysis and mathemtical modelling
 
 <!---
 SeppeHousen/SeppeHousen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
