@@ -1,7 +1,7 @@
 # Hello there👋
 
 My name is Seppe. Over the course of my academic career I have discovered my love for data, statistics and machine learning.
-Currently looking for a data driven job, where I can create business impact through the regourus analysis of data.
+I strive to create business impact through the regourus analysis of data.
 
 Here, om GitHub, I hope to showcase some of the data projects I worked on.
 
