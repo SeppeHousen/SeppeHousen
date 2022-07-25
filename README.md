@@ -7,10 +7,9 @@ Here, om GitHub, I hope to showcase some of the data projects I worked on.
 
 More information on my background via [LinkedIn](https://www.linkedin.com/in/seppehousen/).
 
-## Current project
-- 💵 M&A deal-price prediction using neural networks
 
 ## Previous projects
+- 💵 M&A deal-price prediction using neural networks
 - 💵 Salary prediction using tree-based models
 - 📈 Chevron stock analysis using text analysis, GARCH-models and portfolio optimization
 - 🍷 Wine investment analysis using linear regression
